@@ -1,6 +1,6 @@
 ---
 title: 'Access your transcript, certificates, and badges | Microsoft Docs'
-description: 'Access your transcript, certificates, and badges' 
+description: 'Access your transcript, certificates, and badges and update' 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
