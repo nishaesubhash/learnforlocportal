@@ -10,9 +10,9 @@ ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Access your certificates, badges, and transcript
+# Access your certificates, badges, and transcript and update
 
-## What are certificates, badges, and the transcript?
+## What are certificates, badges, and the transcript? and update
 
 You’ll need your Microsoft Certification certificates, badges, and transcript as proof of your accomplishments. Use badges on your LinkedIn profile or career-related social media posts to share your skills in a simple, trusted way.
 
