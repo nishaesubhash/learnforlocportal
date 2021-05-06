@@ -65,7 +65,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.ai-102
 resources:
-- title: Journey to certification
+- title: Journey to certification updated
   description: Explore steps to get certified as an Azure AI Engineer Associate and the resources available to help you prepare.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
 - title: Azure certifications poster
