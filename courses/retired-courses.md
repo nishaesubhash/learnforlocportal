@@ -1,5 +1,5 @@
 ---
-title: Course retirement | Microsoft Docs
+title: Course retirement | Microsoft Docs - updated
 description: Course retirement
 documentationcenter: NA
 author: micsullivan
