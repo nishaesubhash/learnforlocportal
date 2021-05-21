@@ -69,7 +69,6 @@ resources:
   description: Explore steps to get certified as an Azure AI Engineer Associate and the resources available to help you prepare.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
 - title: Azure certifications poster
-  description: Check out an overview including fundamentals, role-based, and specialty certifications for Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
